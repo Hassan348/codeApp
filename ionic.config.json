@@ -1,0 +1,8 @@
+{
+  "name": "codeApp",
+  "integrations": {
+    "cordova": {},
+    "capacitor": {}
+  },
+  "type": "angular"
+}
